@@ -37,7 +37,7 @@
 
 ## Screenshots
 
-![Screenshot](images/todo-list-app.jpg)
+![Screenshot](images/todo-list-app.png)
 
 ## GitHub
 
